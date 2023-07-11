@@ -1,5 +1,6 @@
 # 💫 About Me:
-a dynamic software professional with expertise in AWS, Salesforce development, Flutter, and codes proficiently in Java.
+A Dynamic and Passionate Software Professional with expertise in Salesforce development & AWS Certified.
+Good in Flutter and codes proficiently in Java.
 
 
 ## 🌐 Socials:
